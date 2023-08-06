@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\kbhan\source\repos\BlazorApp\publish</_PublishTargetUrl>
+    <History>True|2023-06-27T16:01:56.4363428Z;True|2023-06-28T00:53:03.2168677+09:00;True|2023-06-28T00:15:12.2409970+09:00;True|2023-06-24T17:38:49.4398567+09:00;True|2023-06-24T17:21:47.0127857+09:00;True|2023-06-24T17:20:38.4779851+09:00;False|2023-06-24T17:20:25.6991423+09:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
